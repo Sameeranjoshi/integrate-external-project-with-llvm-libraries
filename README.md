@@ -16,3 +16,5 @@ cd build
 ```
 Note: You need `llvm` compiler setup in your environment.
 The tool does nothing just uses one of the LLVM based libraries.
+
+Note: To see how to develop something in-tree see https://github.com/Sameeranjoshi/llvm-tool
