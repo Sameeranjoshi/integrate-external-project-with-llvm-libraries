@@ -1,4 +1,0 @@
-/home/sameeran/temp/outoftree-llvm/build/CMakeFiles/rebuild_cache.dir
-/home/sameeran/temp/outoftree-llvm/build/CMakeFiles/edit_cache.dir
-/home/sameeran/temp/outoftree-llvm/build/CMakeFiles/intrinsics_gen.dir
-/home/sameeran/temp/outoftree-llvm/build/CMakeFiles/myoutoftreetool.dir
