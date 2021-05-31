@@ -8,5 +8,11 @@ mkdir build && cd build
 cmake ../integrate-external-project-with-llvm-libraries
 make
 ```
+
+# Check your build
+```bash
+cd build
+./myoutoftreetool --help
+```
 Note: You need `llvm` compiler setup in your environment.
 The tool does nothing just uses one of the LLVM based libraries.
