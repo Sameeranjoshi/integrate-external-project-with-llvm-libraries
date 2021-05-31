@@ -3,9 +3,9 @@ Make use of the libraries provided by LLVM framework, and create your own tool o
 
 # Steps to build
 ```bash
-git clone 
+git clone https://github.com/Sameeranjoshi/integrate-external-project-with-llvm-libraries.git
 mkdir build && cd build
-cmake ../proj
+cmake ../integrate-external-project-with-llvm-libraries
 make
 ```
 Note: You need `llvm` compiler setup in your environment.
